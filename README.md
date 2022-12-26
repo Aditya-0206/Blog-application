@@ -4,9 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` within the project folder for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Run `npm run start:server` for a dev server. The app will automatically reload if you change any of the source files.
+Run `npm run start:server` on another terminal window within the project folder for the backend server. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
